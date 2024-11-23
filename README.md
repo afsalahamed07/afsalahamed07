@@ -1,6 +1,6 @@
 # Afsal Rasheed
 
-** `A Voyager of Software Engineering (Software Engineer | Lifelong Learner )` **
+`A Voyager of Software Engineering (Software Engineer | Lifelong Learner)`
 
 I’m a curious individual driven by a passion for understanding how things work 
 in the software world. I enjoy learning anything and everything that piques my
@@ -58,6 +58,6 @@ And yeah. I use Neovim BTW!
 - Redis | RU101 Certificate | Redis University
 - freeCodeCamp Certificate in Responsive Web Design
 
----
+#
 
 Take a look around my repositories for more info and projects!
