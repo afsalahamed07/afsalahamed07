@@ -42,7 +42,7 @@ And yeah. I use Neovim BTW!
 
 ## Coding Journey | What I am upto
 
-- currntly follwoing the [The odins project](https://www.theodinproject.com)
+- currently following the [The odins project](https://www.theodinproject.com)
     - [x] Foundations
     - [x] JavaScript
     - [x] React
@@ -52,7 +52,7 @@ And yeah. I use Neovim BTW!
 
 - Exploring C programming with The C Programming Language: Modern Approach.
 
-## Certification
+## Certifications
 
 - BENG (Hons) Software Engineering
 - Redis | RU101 Certificate | Redis University
